@@ -60,7 +60,7 @@ __BKSDisplayIsDisabled:
 
 在我可以支持任意函数定义之前，我提供了在关联文件中定义一个后缀的选项:如下所示
 
-![Alt text](./jtoolblocks.png)
+![Alt text](./jtooldecomp1)
 
 这样，jtool不仅会跟随参数，而且会在调用函数时将其显示出来。当前支持的类型是CFString，cstring(它会得到错误消息、反馈和日志功能）
 
