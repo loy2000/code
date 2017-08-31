@@ -22,8 +22,13 @@ https://gist.github.com/oleavr/ae7bcbbb9179852a4731
 最好的实践方法
 使用nodejs去绑定frida后加载你的agent.js脚本
 你可以:
+
 •将脚本拆分为多个文件
+
 •使用来自社区的frida模块
+
 •从npm中调用数千个模块
+
 •使用es6功能编写现代javascript - frida支持它
+
 •repl适合于用- l和% reload进行原型设计
