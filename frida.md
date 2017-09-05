@@ -1,6 +1,5 @@
 
-速成指南
-
+怎么处理孵化的子进程
 1. device.on(‘spawned’,	on_spawned)	
 2. device.enable_spawn_gaMng()	
 3. device.enumerate_pending_spawns()	
