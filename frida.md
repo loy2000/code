@@ -9,12 +9,12 @@ https://gist.github.com/oleavr/ae7bcbbb9179852a4731
 只能在Android和ios系统上运行。
 
 堆栈回溯信息
-![Alt text](./Backtraces.png)
+![Alt text](./Backtraces.jpg)
 
 
 
 带调试符号的堆栈回溯信息
-![Alt text](./symbols.png)
+![Alt text](./symbols.jpg)
 
 
 
